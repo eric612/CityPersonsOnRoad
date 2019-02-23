@@ -1,0 +1,33 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>dusseldorf_000013_000019.png</filename>
+  <size>
+    <width>2048</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>ped</name>
+    <pose>Unspecified</pose>
+    <difficult>0</difficult>
+    <truncated>0</truncated>
+    <bndbox>
+      <xmin>351</xmin>
+      <ymin>439</ymin>
+      <xmax>394</xmax>
+      <ymax>546</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>ped</name>
+    <pose>Unspecified</pose>
+    <difficult>0</difficult>
+    <truncated>0</truncated>
+    <bndbox>
+      <xmin>236</xmin>
+      <ymin>422</ymin>
+      <xmax>292</xmax>
+      <ymax>561</ymax>
+    </bndbox>
+  </object>
+</annotation>

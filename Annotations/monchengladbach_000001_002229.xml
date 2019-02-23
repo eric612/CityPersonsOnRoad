@@ -1,0 +1,33 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>monchengladbach_000001_002229.png</filename>
+  <size>
+    <width>2048</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>ped</name>
+    <pose>Unspecified</pose>
+    <difficult>0</difficult>
+    <truncated>0</truncated>
+    <bndbox>
+      <xmin>110</xmin>
+      <ymin>351</ymin>
+      <xmax>161</xmax>
+      <ymax>478</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>ped</name>
+    <pose>Unspecified</pose>
+    <difficult>0</difficult>
+    <truncated>0</truncated>
+    <bndbox>
+      <xmin>963</xmin>
+      <ymin>359</ymin>
+      <xmax>969</xmax>
+      <ymax>375</ymax>
+    </bndbox>
+  </object>
+</annotation>

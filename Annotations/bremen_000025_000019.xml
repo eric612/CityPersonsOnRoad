@@ -1,0 +1,33 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>bremen_000025_000019.png</filename>
+  <size>
+    <width>2048</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>ped</name>
+    <pose>Unspecified</pose>
+    <difficult>0</difficult>
+    <truncated>0</truncated>
+    <bndbox>
+      <xmin>1082</xmin>
+      <ymin>389</ymin>
+      <xmax>1121</xmax>
+      <ymax>485</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>ped</name>
+    <pose>Unspecified</pose>
+    <difficult>0</difficult>
+    <truncated>0</truncated>
+    <bndbox>
+      <xmin>1056</xmin>
+      <ymin>434</ymin>
+      <xmax>1066</xmax>
+      <ymax>461</ymax>
+    </bndbox>
+  </object>
+</annotation>

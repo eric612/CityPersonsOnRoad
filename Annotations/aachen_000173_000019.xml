@@ -1,0 +1,33 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>aachen_000173_000019.png</filename>
+  <size>
+    <width>2048</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>ped</name>
+    <pose>Unspecified</pose>
+    <difficult>0</difficult>
+    <truncated>0</truncated>
+    <bndbox>
+      <xmin>1580</xmin>
+      <ymin>277</ymin>
+      <xmax>1729</xmax>
+      <ymax>642</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>ped</name>
+    <pose>Unspecified</pose>
+    <difficult>0</difficult>
+    <truncated>0</truncated>
+    <bndbox>
+      <xmin>1336</xmin>
+      <ymin>367</ymin>
+      <xmax>1405</xmax>
+      <ymax>539</ymax>
+    </bndbox>
+  </object>
+</annotation>

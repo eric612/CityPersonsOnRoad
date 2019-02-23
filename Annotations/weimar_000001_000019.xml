@@ -1,0 +1,21 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>weimar_000001_000019.png</filename>
+  <size>
+    <width>2048</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>ped</name>
+    <pose>Unspecified</pose>
+    <difficult>0</difficult>
+    <truncated>0</truncated>
+    <bndbox>
+      <xmin>863</xmin>
+      <ymin>399</ymin>
+      <xmax>884</xmax>
+      <ymax>451</ymax>
+    </bndbox>
+  </object>
+</annotation>

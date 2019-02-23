@@ -1,0 +1,33 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>erfurt_000040_000019.png</filename>
+  <size>
+    <width>2048</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>ped</name>
+    <pose>Unspecified</pose>
+    <difficult>0</difficult>
+    <truncated>0</truncated>
+    <bndbox>
+      <xmin>1256</xmin>
+      <ymin>339</ymin>
+      <xmax>1372</xmax>
+      <ymax>623</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>ped</name>
+    <pose>Unspecified</pose>
+    <difficult>0</difficult>
+    <truncated>0</truncated>
+    <bndbox>
+      <xmin>1167</xmin>
+      <ymin>341</ymin>
+      <xmax>1286</xmax>
+      <ymax>631</ymax>
+    </bndbox>
+  </object>
+</annotation>

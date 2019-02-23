@@ -1,0 +1,21 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>cologne_000041_000019.png</filename>
+  <size>
+    <width>2048</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>ped</name>
+    <pose>Unspecified</pose>
+    <difficult>0</difficult>
+    <truncated>0</truncated>
+    <bndbox>
+      <xmin>1433</xmin>
+      <ymin>381</ymin>
+      <xmax>1473</xmax>
+      <ymax>483</ymax>
+    </bndbox>
+  </object>
+</annotation>

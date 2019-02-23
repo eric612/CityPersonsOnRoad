@@ -1,0 +1,21 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>hanover_000000_057710.png</filename>
+  <size>
+    <width>2048</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>ped</name>
+    <pose>Unspecified</pose>
+    <difficult>0</difficult>
+    <truncated>0</truncated>
+    <bndbox>
+      <xmin>1638</xmin>
+      <ymin>333</ymin>
+      <xmax>1671</xmax>
+      <ymax>415</ymax>
+    </bndbox>
+  </object>
+</annotation>

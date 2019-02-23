@@ -1,0 +1,21 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>strasbourg_000001_005876.png</filename>
+  <size>
+    <width>2048</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>ped</name>
+    <pose>Unspecified</pose>
+    <difficult>0</difficult>
+    <truncated>1</truncated>
+    <bndbox>
+      <xmin>998</xmin>
+      <ymin>393</ymin>
+      <xmax>1007</xmax>
+      <ymax>417</ymax>
+    </bndbox>
+  </object>
+</annotation>
