@@ -7,7 +7,7 @@
     <depth>3</depth>
   </size>
   <object>
-    <name>ped</name>
+    <name>pedestrian</name>
     <pose>Unspecified</pose>
     <difficult>0</difficult>
     <truncated>0</truncated>
@@ -19,7 +19,7 @@
     </bndbox>
   </object>
   <object>
-    <name>ped</name>
+    <name>pedestrian</name>
     <pose>Unspecified</pose>
     <difficult>0</difficult>
     <truncated>0</truncated>
@@ -31,7 +31,7 @@
     </bndbox>
   </object>
   <object>
-    <name>ped</name>
+    <name>pedestrian</name>
     <pose>Unspecified</pose>
     <difficult>0</difficult>
     <truncated>0</truncated>
@@ -40,6 +40,18 @@
       <ymin>355</ymin>
       <xmax>1570</xmax>
       <ymax>469</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>pedestrian</name>
+    <pose>Unspecified</pose>
+    <difficult>0</difficult>
+    <truncated>0</truncated>
+    <bndbox>
+      <xmin>1138</xmin>
+      <ymin>392</ymin>
+      <xmax>1164</xmax>
+      <ymax>457</ymax>
     </bndbox>
   </object>
 </annotation>

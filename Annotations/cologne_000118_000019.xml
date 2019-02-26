@@ -6,4 +6,28 @@
     <height>1024</height>
     <depth>3</depth>
   </size>
+  <object>
+    <name>pedestrian</name>
+    <pose>Unspecified</pose>
+    <difficult>0</difficult>
+    <truncated>0</truncated>
+    <bndbox>
+      <xmin>1421</xmin>
+      <ymin>524</ymin>
+      <xmax>1421</xmax>
+      <ymax>524</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>pedestrian</name>
+    <pose>Unspecified</pose>
+    <difficult>0</difficult>
+    <truncated>0</truncated>
+    <bndbox>
+      <xmin>1425</xmin>
+      <ymin>484</ymin>
+      <xmax>1448</xmax>
+      <ymax>523</ymax>
+    </bndbox>
+  </object>
 </annotation>
